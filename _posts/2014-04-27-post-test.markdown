@@ -1,0 +1,7 @@
+---
+published: true
+title: Post Test
+layout: post
+---
+*** post teste ***
+ok ok ok
